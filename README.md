@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [muste.io](muste.io)
 
-- 💬 Ask me about **Mendix, RPA, JS,React, Python, BootStrap, HTML5, CSS3**
+- 💬 Ask me about **Mendix, RPA, JS, React, Python, BootStrap, HTML5, CSS3**
 
 - 📫 How to reach me **hi@muste.io**
 
